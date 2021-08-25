@@ -1,0 +1,24 @@
+{
+  "title": "Starter Dashboard",
+  "general": {
+    "hi": "Hi",
+    "name": "User",
+    "noDataTitle": "No Data",
+    "noDataContent": "We Will Show You The Log As Soon As Possible!",
+    "comingSoon": "Coming Soon!",
+    "changeFilter": "You Can Change The Filter To See More Records.",
+    "loading": "Loading...",
+    "serverError": "The Server is not Reachable",
+    "retry": "Retry...",
+    "onlineMode": "Back To Online Mode",
+    "historyMode": "Check The History",
+    "changeView": "Change Card View",
+    "noWidgetExist": "You Didn't Add Any Widget To Current Dashboard.",
+    "noDashboardExist": "You Don't Have Any Dashboard For Current Route.",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "defRole": "Administrator"
+  }
+}
